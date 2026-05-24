@@ -12,10 +12,11 @@ To investigate whether social network analysis of YouTube comment interactions c
 
 ## Project Structure
 
-- s4146925_PG_Group_XX.ipynb → Main notebook (complete analysis)
+- s4146925_PG_Group_18.ipynb → Main notebook (complete analysis)
 - data/ → Raw and processed datasets
 - figures/ → Graphs and visualisations
-- report/ → Final report (PDF)
+- Report_s4146925_PG_Group_18.pdf → Final report (PDF)
+- Worksheet_s4146925_PG_group_18.pdf → Final weekly timesheet (PDF)
 
 ---
 
