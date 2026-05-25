@@ -1,0 +1,41 @@
+Project Title: 
+Doctors vs Influencers: 
+Mapping Authority, Sentiment and Community in YouTube Health Discourse
+
+
+
+Student Details:
+Name: Sreelakshmi Thalodil Sunilkumar
+Student ID: s4146925
+Group Number: 18
+
+Team Members:
+- Akash (s4137826)
+- Asmi Faisel (s4134240)
+- Sreelakshmi Thalodil Sunilkumar (s4146925)
+
+Repository Access Details:
+
+The project code, data, and report are available through the following repository:
+
+Access Link:
+https://github.com/sreekutty-ops/social-media-assignment2
+
+Access Instructions:
+- The repository is publicly accessible.
+- All files are organised clearly for easy navigation.
+- The main analysis is contained in:
+  s4146925_PG_Group_18.ipynb
+
+How to Run the Code:
+1. Download or clone the repository.
+2. Install required libraries:
+   pip install pandas numpy matplotlib networkx nltk python-louvain scikit-learn wordcloud
+3. Open the notebook:
+   s4146925_PG_Group_18.ipynb
+4. Run all cells (Restart & Run All) to reproduce results.
+
+Notes:
+- All datasets used in the analysis are included in the repository.
+- The notebook is fully commented for clarity.
+- No API keys, access tokens, or private credentials are included.
